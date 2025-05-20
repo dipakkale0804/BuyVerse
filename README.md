@@ -16,10 +16,6 @@ BuyVerse is a modern, responsive e-commerce web application designed to provide 
 
 ---
 
-## Demo
-
-[Live Demo URL](#) *(Add your deployed website link here)*
-
 ---
 
 ## Technologies Used
